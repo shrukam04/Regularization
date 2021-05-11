@@ -1,5 +1,4 @@
 #Name: Shruti B. Kamble
-#Instructor: Prof. Roy Wada
 #Course: Intermediate Analytics
 #Title: Regularization
 #Date: 05/09/2021
